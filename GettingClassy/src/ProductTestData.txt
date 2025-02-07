@@ -1,0 +1,8 @@
+ID   Name      DescriptionCost 
+-------------------------------------------------------------
+000001Pipeweed  Long Bottom Leaf600.0
+000002Lembas    Elven Wayfair Bread200.0
+000003Wine      Woodland Elf Wine400.0
+000004Mushrooms Farmer Took's Finest125.0
+000005Mithrill  Enchanted Dwarven Armor3000.0
+
